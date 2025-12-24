@@ -1,0 +1,13 @@
+/target/
+**/*.rs.bk
+**/*.swp
+Cargo.lock
+
+# Editor
+.vscode/
+.idea/
+*.sublime*
+.DS_Store
+
+# Temp
+/tmp
